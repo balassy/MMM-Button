@@ -1,7 +1,7 @@
 {
   "name": "Magic-Mirror-Module-Button",
-  "version": "1.0.0",
-  "description": "When clicking the button a broadcast message is send to every module. Thereby any module can react to the button click if needed.",
+  "version": "1.0.2",
+  "description": "When clicking the button a broadcast message is sent to every module. Thereby any module can react to the button click if needed.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ptrbld/MMM-Button"
@@ -23,8 +23,8 @@
   },
   "dependencies": {
     "onoff": "latest"
-    },
-	"devDependencies": {
+  },
+  "devDependencies": {
     "electron-rebuild": "^1.2.1"
   }
 }
